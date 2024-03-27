@@ -12,7 +12,7 @@ This new effort aims to:
 
 * strengthen the Scala community
 * promote a positive image of Scala
-* recognize and support the independent work of active community members who volunteer time to growing the community
+* recognize and support the independent work of active community members
 
 ## What are Ambassadors? 🤔
 
@@ -24,7 +24,7 @@ Ambassadors have volunteered to work with the Scala Center and the community to:
 * improve communication between everyone involved with Scala
 * aid and support each other's efforts
 
-Ambassadors are encouraged to:
+We encourage Ambassadors to:
 
 * Be present whenever possible at their local community events
 * Start new community events if they aren't already happening
